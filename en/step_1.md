@@ -1,8 +1,3 @@
---- step ---
----
-title: Sense HAT: humidity readings
----
-
 - In a Python file, enter the following code:
 
     ```python
@@ -23,4 +18,3 @@ title: Sense HAT: humidity readings
     34.6234588623
     ```
 
---- /step ---
