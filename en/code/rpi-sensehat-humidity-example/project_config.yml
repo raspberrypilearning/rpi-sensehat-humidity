@@ -1,0 +1,4 @@
+name: "Sense HAT humidity"
+identifier: "rpi-sensehat-humidity-example"
+type: 'python'
+build: true
