@@ -10,7 +10,9 @@
     print(humidity)
     ```
 
-    <iframe src="https://trinket.io/embed/python/cd35fdd905" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+    <iframe src="https://editor.raspberrypi.org/en/embed/viewer/rpi-sensehat-humidity-example" width="100%" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+    [Open this code in the Code Editor](https://editor.raspberrypi.org/en/projects/rpi-sensehat-humidity-example){:target="_blank"}
 
 - When you run the program, you should see something like this:
 
